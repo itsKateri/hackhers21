@@ -1,3 +1,5 @@
+# HackerNaut
+
 ## Motivation
 This year’s theme being space inspired me to create something related to astrology! As someone with a side interest in horoscopes, I found that most apps focus on the Western Zodiac. However, there are countless other horoscopes around the world that deserve just as much attention! Thus, my project is focused on creating a single program that can figure out various Zodiac signs based on a single birth date. 💫
 
